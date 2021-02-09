@@ -62,12 +62,36 @@ const questions = [
     {
         type: 'input',
         name: 'contribute',
-        message: 'Please provide the Contribution guidlines.(Required)'
+        message: 'Please list the contributers to this website.'
     },
     {
         type: 'input',
         name: 'test',
-        message: 'Please provide the test instructions. (Required)'
+        message: 'Please provide the test instructions.'
+    },
+    {
+        type: "list",
+        name: "license",
+        message: "Choose the appropriate license for the project:",
+        choices: [
+            "Apache",
+            "Academic",
+            "GNU",
+            "ISC",
+            "MIT",
+            "Mozilla",
+            "Open"
+        ]
+    },
+    {
+        type: 'input',
+        name: "username",
+        message: "Please enter your github username. "
+    },
+    {
+        type: "input",
+        name: "email",
+        message: "PLease enter your email. "
     }
 
 ];
