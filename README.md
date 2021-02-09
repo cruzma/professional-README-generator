@@ -1,6 +1,5 @@
 # professional-README-generator
   
-  [![License: MIT](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://img.shields.io/badge/MIT%20v2-blue.svg)
 
   ## Table of Contents
   - [Description](#description)
@@ -12,13 +11,13 @@
   - [Questions](#questions)
 
   ## Description
-  set of questions in termainal that will generate a README once everything has been answered
+  to provide an automatic README file
 
   ## Installation
-  just type "node index.js" in terminal
+  just type node index.js in terminal
 
   ## Usage
-  i use it everytime i have to write a readme
+  i use it everytime i need a read me file
 
   ## Contribute
   Mateo Cruz
@@ -30,7 +29,7 @@
   MIT
 
   ## Questions
-  cruzma
-  mtaycruz@gmail.com
+  @cruzma</br>
+  mtaycruz@gmailcom
 
   
