@@ -1,6 +1,6 @@
 # professional-README-generator
   
-  [![License: MIT](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://img.shields.io/badge/License-GPL%20v2-blue.svg)
+  [![License: MIT](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://img.shields.io/badge/MIT%20v2-blue.svg)
 
   ## Table of Contents
   - [Description](#description)
@@ -30,7 +30,7 @@
   MIT
 
   ## Questions
-  @cruzma
+  cruzma
   mtaycruz@gmail.com
 
   

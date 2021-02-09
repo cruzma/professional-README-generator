@@ -15,7 +15,7 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
   
-  [![License: ${data.license}](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://img.shields.io/badge/License-GPL%20v2-blue.svg)
+  [![License: ${data.license}](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://img.shields.io/badge/${data.license}%20v2-blue.svg)
 
   ## Table of Contents
   - [Description](#description)
@@ -45,7 +45,7 @@ function generateMarkdown(data) {
   ${data.license}
 
   ## Questions
-  ${data.username}
+  ${data.username}</br>
   ${data.email}
 
   
