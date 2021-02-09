@@ -26,7 +26,7 @@ function generateMarkdown(data) {
   - [Questions](#questions)
 
   ## Description
-  ${data.description}
+  ${data.description}<br/>
   ![professional README generator Demo](src/demo.gif)
 
   ## Installation

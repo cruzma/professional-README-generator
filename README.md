@@ -11,7 +11,7 @@
   - [Questions](#questions)
 
   ## Description
-  to provide an automatic README file
+  to provide an automatic README file<br/>
   ![professional README generator Demo](src/demo.gif)
 
   ## Installation
