@@ -12,6 +12,7 @@
 
   ## Description
   to provide an automatic README file
+  ![professional README generator Demo](src/demo.gif)
 
   ## Installation
   just type node index.js in terminal
@@ -30,6 +31,6 @@
 
   ## Questions
   @cruzma</br>
-  mtaycruz@gmailcom
+  mtaycruz@gmail.com
 
   
