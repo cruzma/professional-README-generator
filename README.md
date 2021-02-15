@@ -1,4 +1,4 @@
-# professional-README-generator
+# professionl-README-generator
   
 
   ## Table of Contents
@@ -11,14 +11,14 @@
   - [Questions](#questions)
 
   ## Description
-  to provide an utomatic readme file<br/>
+  to provide an automatic readme file<br/>
   ![professional README generator Demo](src/demo.gif)<br/>
   <br/>
-  please see link below for demonstration
-  ![demonstration video](./src/demo.webm)
+  please see link below for a ![demonstration video](./src/demo.webm)
+  
 
   ## Installation
-  just ype node index in terminal and the questions will prompt you with questions
+  just type node index in terminal and the app will prompt you with questions
 
   ## Usage
   to use everytime you will create a readme
