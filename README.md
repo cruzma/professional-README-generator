@@ -11,14 +11,17 @@
   - [Questions](#questions)
 
   ## Description
-  to provide an automatic README file<br/>
-  ![professional README generator Demo](src/demo.gif)
+  to provide an utomatic readme file<br/>
+  ![professional README generator Demo](src/demo.gif)<br/>
+  <br/>
+  please see link below for demonstration
+  ![demonstration video](./src/demo.webm)
 
   ## Installation
-  just type node index.js in terminal
+  just ype node index in terminal and the questions will prompt you with questions
 
   ## Usage
-  i use it everytime i need a read me file
+  to use everytime you will create a readme
 
   ## Contribute
   Mateo Cruz
@@ -31,6 +34,6 @@
 
   ## Questions
   @cruzma</br>
-  mtaycruz@gmail.com
+  example@example.com
 
   

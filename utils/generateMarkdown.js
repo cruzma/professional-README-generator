@@ -27,7 +27,10 @@ function generateMarkdown(data) {
 
   ## Description
   ${data.description}<br/>
-  ![professional README generator Demo](src/demo.gif)
+  ![professional README generator Demo](src/demo.gif)<br/>
+  <br/>
+  please see link below for demonstration
+  ![demonstration video](./src/demo.webm)
 
   ## Installation
   ${data.install}
