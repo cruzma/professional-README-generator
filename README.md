@@ -15,7 +15,7 @@
   ![professional README generator Demo](src/demo.gif)<br/>
   <br/>
   please see link for a demonstration
-  <iframe src="https://drive.google.com/file/d/1vEAlTIci9olLoHBk3_VEVJM1C4l7ZZLl/preview" width="640" height="480"></iframe>
+  https://drive.google.com/file/d/1vEAlTIci9olLoHBk3_VEVJM1C4l7ZZLl/preview
 
   ## Installation
   just type node index in terminal and the app will prompt you with questions
